@@ -10,7 +10,7 @@ Introduction
 ===================
 Breast cancer is the most common cancer in women. According to a report by the World Health Organization (WHO), 0.5 million women die of breast cancer each year. The Open Access Series of Breast Ultrasonic Data (`OASBUD <https://zenodo.org/record/545928#.XYp6mShKi9w>`_), presented in is a set of RF signals which were recorded from breast lesions and are now freely available for studying the specificity of the ultrasonic backscattered echoes from malignant and benign breast masses. 
 
-The following figure are 8 differnet plots of ultrasonic image envelope data plottings.
+The following figure are 8 differnet plots of ultrasonic image envelope data plottings. The region of interests are labelled in white lines.
 
 .. image:: https://github.com/bwang40/OASBUD_DataProcessing/blob/master/image/lessionplot.png
    :scale: 15
