@@ -12,7 +12,7 @@ Breast cancer is the most common cancer in women. According to a report by the W
 
 The following figure are 8 differnet plots of ultrasonic image envelope data plottings.
 
-.. image:: https://github.com/bwang40/OASBUD_DataProcessing/blob/master/image/rf_roi_plot.png
+.. image:: https://github.com/bwang40/OASBUD_DataProcessing/blob/master/image/lessionplot.png
    :scale: 15
 
 The following figure shows the ultrasonic image envelope data plotting and its region of interest (ROI). Histogram of each data collection is attached below as well.
