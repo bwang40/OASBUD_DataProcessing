@@ -40,9 +40,9 @@ A category 4 score indicates a suspicious finding or abnormality. In this instan
 
 This score is split within three additional categories based on the doctor’s level of suspicion:
 
-  4A. Low suspicion for cancer or malignant findings.
-  4B. Moderate suspicion for cancer or malignant findings.
-  4C. High suspicion for cancerous or malignant findings.
+  - 4A. Low suspicion for cancer or malignant findings.
+  - 4B. Moderate suspicion for cancer or malignant findings.
+  - 4C. High suspicion for cancerous or malignant findings.
 
 Category 5
 --------------
