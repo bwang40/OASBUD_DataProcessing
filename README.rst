@@ -4,7 +4,7 @@ OASBUD-Ultrasonic Image for Breast Lesions Detection and Characterization
 **************************************************************************
 
 .. contents:: Table of Contents
-   :depth: 2
+   :depth: 1
    
 Introduction
 ===================
@@ -15,13 +15,12 @@ Background Knowledges
 
 BI-RADS Score
 =====================
-Doctors use the BI-RADS system to place abnormal findings into categories. The categories are from 0 to 6. This information is acquired from 
+Doctors use the BI-RADS system to place abnormal findings into categories. The categories are from 0 to 6. This information is acquired from https://www.healthline.com/health/birads-score
 
 
 Category 0
 ---------------
 A score of 0 indicates an incomplete test. The mammogram images may have been difficult to read or interpret. In some cases, doctors may want to compare these new images with older ones to determine if there’ve been any changes. A BI-RADS score of 0 requires additional tests and images to provide a final assessment.
-https://www.healthline.com/health/birads-score
 
 Category 1
 ----------------
