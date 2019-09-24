@@ -10,6 +10,9 @@ Introduction
 ===================
 Breast cancer is the most common cancer in women. According to a report by the World Health Organization (WHO), 0.5 million women die of breast cancer each year. The Open Access Series of Breast Ultrasonic Data (`OASBUD <https://zenodo.org/record/545928#.XYp6mShKi9w>`_), presented in is a set of RF signals which were recorded from breast lesions and are now freely available for studying the specificity of the ultrasonic backscattered echoes from malignant and benign breast masses. 
 
+.. image:: https://github.com/bwang40/CheckeeInfoCrawl/blob/master/image/WeChat%20Image_20190312050230.png
+   :scale: 25
+
 Background Knowledges
 ===========================
 
